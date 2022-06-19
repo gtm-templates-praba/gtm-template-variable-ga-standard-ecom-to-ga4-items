@@ -1,0 +1,5 @@
+homepage: "https://codechilli.lk"
+documentation: "https://www.example.com/documentation"
+versions:
+  - sha: 
+    changeNotes: Initial release.
