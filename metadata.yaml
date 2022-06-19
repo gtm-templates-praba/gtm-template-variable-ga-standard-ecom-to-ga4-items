@@ -1,5 +1,5 @@
-homepage: "https://codechilli.lk"
-documentation: "https://www.example.com/documentation"
+homepage: 'https://codechilli.lk'
+documentation: 'https://github.com/prabapro/gtm-template-variable-ga-standard-ecom-to-ga4-items/blob/main/README.md'
 versions:
-  - sha: 
-    changeNotes: Initial release.
+ - sha: eba5a33d6e7e028a163359f8eae437335074d6b1
+   changeNotes: Initial release.
